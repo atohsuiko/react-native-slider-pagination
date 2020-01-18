@@ -1,0 +1,17 @@
+{
+  "name": "react-native-slider-pagination",
+  "version": "1.0.0",
+  "description": "A React Native component that renders a slider pagination.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=jsdom"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "slider",
+    "pagination"
+  ],
+  "author": "Shota Okui",
+  "license": "MIT"
+}
