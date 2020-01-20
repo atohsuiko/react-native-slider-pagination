@@ -28,5 +28,6 @@
     "slider pagination"
   ],
   "author": "Shota Okui",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "github/atohsuiko/react-native-slider-pagination"
 }
