@@ -1,10 +1,12 @@
 ## A React Native component that renders a slider pagination.
 
-By installing this component you can get something like this
+By installing this component you can paginate like this
 
-Instead of something like this
+![](slider-pagination.gif)
 
-You can also customize the slider pagination like so
+You can customize color and style like so
+
+![](slider-pagination-custom.gif)
 
 ## Installation
 ---
