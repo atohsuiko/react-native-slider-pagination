@@ -1,6 +1,6 @@
 {
   "name": "react-native-slider-pagination",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native component that renders a slider pagination.",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,8 @@
   ],
   "author": "Shota Okui",
   "license": "MIT",
-  "repository": "github/atohsuiko/react-native-slider-pagination"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atohsuiko/react-native-slider-pagination.git"
+  }
 }
