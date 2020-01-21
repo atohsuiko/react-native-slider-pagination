@@ -22,12 +22,12 @@ import { SliderPaginationView } from 'react-native-slider-pagination';
 //Other code here
 
 render() {
-    const pageCallBack = (pageNum) => {
-        setPage(pageNum);
+    const your_function_name = (pageNum) => {
+        //pageNum is the page number selected.
     };
     <SliderPaginationView
         pageCount={10}
-        onPageChange={pageCallBack}
+        onPageChange={your_function_name}
     />
 }
 ```
